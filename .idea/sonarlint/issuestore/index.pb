@@ -5,3 +5,7 @@ X
 (contracts/manufacturer-verification.clar,a/a/aaa37ef1a91d7549f1f14a5f500859008e69300e
 W
 'tests/manufacturer-verification.test.ts,5/d/5df2106a003d5447a074c976bfad87ab0d847d5f
+Q
+!contracts/timepiece-registry.clar,5/5/55d86ee8d1acb2800a5ba2dcff212cd501e3ca49
+P
+ tests/timepiece-registry.test.ts,a/9/a9053b045ac500971026dec95ac75a186d4e9b29
